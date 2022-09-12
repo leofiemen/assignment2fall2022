@@ -1,12 +1,15 @@
-let diameter = 1
+let diameter = 1 //set variable variable diameter with a value 1
 
 function setup() {
-    createCanvas(400, 200);
-
+    createCanvas(400, 200); //create canvas 400px width and 300px heigth
 }
 
+
+
 function draw() {
-    background(255)
+    
+    // set background color to white
+    background(255); 
 
     // 1. Make circle appear in center and not move
     circle(width / 2, height / 2, diameter)
