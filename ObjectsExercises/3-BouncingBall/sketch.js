@@ -3,7 +3,7 @@ let ball
 function setup() {
     createCanvas(600, 400);
 
-    ball = new Ball(200, 200, 50, 2, 'blue'); // set the value and color of the ball inside the canvas
+    ball = new Ball(200, 200, 50, 5, 'blue'); // set the value and color of the ball inside the canvas
     
 }
 function draw() {
