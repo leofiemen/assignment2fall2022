@@ -1,0 +1,8 @@
+/* Styles div specifying a with of 100px and a height of 100px with a green background color  */
+
+#peak_pixels {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
