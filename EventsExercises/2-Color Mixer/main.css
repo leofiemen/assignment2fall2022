@@ -1,0 +1,42 @@
+button {
+    padding: 5px;
+    cursor: pointer;
+}
+
+
+#box {
+    width: 80%;
+    height: 250px;
+    margin:auto;
+    background-color: rgb(0,0,0);
+}
+
+#values {
+    width: 80%;
+    height: 50px;
+    margin: 10px auto;
+    border: 1px solid gray;
+    text-align: center;
+    color: gray;
+    line-height: 3px;
+}
+
+#red {
+    margin: auto;
+    width: 80%;
+    margin-top: 30px;
+}
+
+
+#green {
+    margin: auto;
+    width: 80%;
+    margin-top: 30px;
+}
+
+
+#blue {
+    margin: auto;
+    width: 80%;
+    margin-top: 30px;
+}

@@ -1,0 +1,12 @@
+button {
+    padding: 5px;
+    margin: 3px;
+    background-color: #0C76C2;
+    color: white;
+}
+
+#answer {
+    margin: 5px;
+    color: blue;
+    font-weight: bold;
+}
